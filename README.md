@@ -1,4 +1,4 @@
-<p align="center"><a href="https://rrpsystems.com.br" target="_blank"><img src="https://cdn-gbdoj.nitrocdn.com/EtFwidwdzxUjQZkgogBwaViqSVMIOEWS/assets/static/optimized/rev-3c44512/wp-content/uploads/2022/05/logo-site.png" width="200" alt="RRP Systems"></a></p>
+<p align="center"><a href="https://rrpsystems.com.br" target="_blank"><img src="https://cdn-gbdoj.nitrocdn.com/EtFwidwdzxUjQZkgogBwaViqSVMIOEWS/assets/static/optimized/rev-3c44512/wp-content/uploads/2022/05/logo-site.png" width="150" alt="RRP Systems"></a></p>
 
 <p align="center">
 <a href="https://github.com/laravel/framework/actions"><img src="https://github.com/laravel/framework/workflows/tests/badge.svg" alt="Build Status"></a>
