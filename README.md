@@ -9,11 +9,11 @@
 
 ## Projeto Dashboard usando a tall stack do laravel
 
-### Laravel 11
-### reverb
-### tailwindCss
-### alpineJs
-### livewire 3
+##### Laravel 11
+##### reverb
+##### tailwindCss
+##### alpineJs
+##### livewire 3
 
 ## License
 
